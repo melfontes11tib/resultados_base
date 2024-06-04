@@ -126,3 +126,15 @@ body{
     color: var(--visual-bg);
 }
 
+.resumo button{
+    margin-top: 0.8rem;
+    width: 100%;
+    border: none;
+    background: var(--dark-navy);
+    color: var(--white);
+    padding-block: 1.6rem;
+    border-radius: 12.8rem;
+    font-size: 1.8rem;
+    font-weight: 700;
+}
+
